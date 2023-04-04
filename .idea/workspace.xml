@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5ac9527-bb94-4961-8bf2-da31fe5150a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algoritmos10.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos11.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos12.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos13.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos14.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos15.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos16.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos17.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos18.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos19.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos20.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos6.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos7.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos8.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algoritmos9.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algoritmos4.go" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoritmos5.go" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos5.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/giovana.amorimc/repos/algoritmos-em-golang-giamorim21&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/giovana.amorimc/repos/algoritmos---arrays-e-slices-giamorim21",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Go Build.go build algoritmos18.go">
     <configuration name="go build algoritmos14.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-giamorim21" />
