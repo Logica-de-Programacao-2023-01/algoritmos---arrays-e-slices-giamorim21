@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5ac9527-bb94-4961-8bf2-da31fe5150a4" name="Changes" comment="" />
+    <list default="true" id="b5ac9527-bb94-4961-8bf2-da31fe5150a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algoritmos10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos12.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos14.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos15.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos16.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos18.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos19.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos20.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoritmos9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmos4.go" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmos5.go" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos5.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,34 +59,26 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/giovana.amorimc/repos/algoritmos---arrays-e-slices-giamorim21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/giovana.amorimc/repos/algoritmos-em-golang-giamorim21&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go Build.go build exercicio5.go">
-    <configuration name="go build algoritmos1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build algoritmos18.go">
+    <configuration name="go build algoritmos14.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-giamorim21" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmos1.go" />
+      <filePath value="$PROJECT_DIR$/algoritmos14.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algoritmos2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmos18.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-giamorim21" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmos2.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build algoritmos3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos---arrays-e-slices-giamorim21" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmos3.go" />
+      <filePath value="$PROJECT_DIR$/algoritmos18.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build algoritmos4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -76,6 +87,14 @@
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/algoritmos4.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algoritmos5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---arrays-e-slices-giamorim21" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmos5.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build exercicio5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -88,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build exercicio5.go" />
+        <item itemvalue="Go Build.go build algoritmos18.go" />
+        <item itemvalue="Go Build.go build algoritmos14.go" />
         <item itemvalue="Go Build.go build algoritmos4.go" />
-        <item itemvalue="Go Build.go build algoritmos3.go" />
-        <item itemvalue="Go Build.go build algoritmos2.go" />
-        <item itemvalue="Go Build.go build algoritmos1.go" />
+        <item itemvalue="Go Build.go build algoritmos5.go" />
+        <item itemvalue="Go Build.go build exercicio5.go" />
       </list>
     </recent_temporary>
   </component>

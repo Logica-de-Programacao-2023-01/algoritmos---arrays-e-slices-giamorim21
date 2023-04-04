@@ -6,25 +6,20 @@ import "fmt"
 //e os valores dos elementos. Em seguida, imprima o Slice e a soma dos valores armazenados.
 
 func main() {
-	// Solicita ao usuário o tamanho do Slice
-	var x int
-	fmt.Print("Digite o tamanho do Slice: ")
-	fmt.Scan(&x)
+	var slice []int
+	var soma, tamanho, x int
 
-	// Cria o Slice com o tamanho informado pelo usuário
-	slice := make([]int, x)
+	fmt.Println("Digite o tamanho do slice:")
+	fmt.Scan(&tamanho)
 
-	// Solicita ao usuário os valores dos elementos do Slice
-	for i := 0; i < x; i++ {
-		fmt.Printf("Digite o valor do elemento %d: ", i+1)
-		fmt.Scan(&slice[i])
+	for i := 0; i < tamanho; i++ {
+		fmt.Println("Digite um número:")
+		fmt.Scan(&x)
+
+		slice = append(slice, x)
+		soma = soma + x
 	}
+	fmt.Println(slice)
+	fmt.Println(soma)
 
-	// Imprime o Slice e a soma dos valores armazenados
-	fmt.Printf("Slice: %v\n", slice)
-	sum := 0
-	for _, value := range slice {
-		sum += value
-	}
-	fmt.Printf("Soma dos valores: %d\n", sum)
 }
