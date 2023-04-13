@@ -2,7 +2,9 @@ package main
 
 import "fmt"
 
-//Crie um Slice de inteiros com tamanho 8 e solicite ao usuário que informe dois índices de elementos que deverão ser trocados de posição.
+//Crie um Slice de inteiros com tamanho 8
+//e solicite ao usuário que informe dois índices de
+//elementos que deverão ser trocados de posição.
 //Imprima o Slice resultante.
 
 func main() {
@@ -12,6 +14,8 @@ func main() {
 	fmt.Scan(&x)
 	fmt.Println("Digite o segundo elemento:")
 	fmt.Scan(&y)
+
+	slice[x], slice[y] = slice[y], slice[x]
 
 	fmt.Println(slice)
 }
