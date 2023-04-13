@@ -7,17 +7,18 @@ import "fmt"
 //de cada elemento da matriz.
 //Em seguida, imprima a matriz resultante.
 
+
 func main() {
 	var matriz [3][2]int
-
-	for linha := 0; linha < len(matriz); linha++ {
-		for coluna := 0; coluna < len(matriz[linha]); coluna++ {
-			var x int
-			fmt.Println("Digite o número da linha", linha, "e da coluna", coluna)
-			fmt.Scan(&x)
-			matriz[linha][coluna] = x
-
+	for linha := range matriz {
+		for coluna := range matriz[linha] {
+			var valor int
+			fmt.Println("Digite um valor:")
+			fmt.Scan(&valor)
+			matriz[linha][coluna] = valor
 		}
-		fmt.Println(matriz)
+	}
+	for _, linha := range matriz {
+		fmt.Printf("%d\n", linha)
 	}
 }
